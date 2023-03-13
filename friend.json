@@ -1,0 +1,7 @@
+[
+    {"name": "Goutham", "mobileNumber": "1234567890", "address": "#456 banglore Main road", "cityOrTownName": "banglore"},
+    {"name": "Smith", "mobileNumber": "9876543211", "address": "#456 banglore kr puram", "cityOrTownName": "banglore"},
+    {"name": "Rahul", "mobileNumber": "9876543221", "address": "456 banglore kr puram", "cityOrTownName": "kolar"},
+    {"name": "Ashwath", "mobileNumber": "9876598765", "address": "#456 banglore Main road", "cityOrTownName": "kolar"}
+]
+    
